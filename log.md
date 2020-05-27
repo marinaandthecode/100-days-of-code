@@ -1,25 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 26, 2020 (Tuesday)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on my notes app. Fixed CSS. Got stuck (again) on choosing a better way to save note content: contenteditable vs textarea input. Read some articles.
+**Thoughts**: Trying to remember the app logic after a while is not easy, but I managed to. Trying not to be hard on myself as I am a newbie in React. Feel like I got better at CSS (hooray!). Want to feel the same way about writing advanced JS code. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Mynote app](https://github.com/marinaandthecode/mern-notes/commit/cb2fe991af48d4cf726aab6991bb87d9386688c7)
 
 
-### Day 1: June 27, Monday
+### Day 2: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
