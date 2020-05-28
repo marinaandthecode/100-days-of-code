@@ -5,15 +5,15 @@
 **Today's Progress**: Worked on my notes app. Fixed CSS. Got stuck (again) on choosing a better way to save note content: contenteditable vs textarea input. Read some articles.
 **Thoughts**: Trying to remember the app logic after a while is not easy, but I managed to. Trying not to be hard on myself as I am a newbie in React. Feel like I got better at CSS (hooray!). Want to feel the same way about writing advanced JS code. 
 
-**Link(s) to work**: [Mynote app](https://github.com/marinaandthecode/mern-notes/commit/cb2fe991af48d4cf726aab6991bb87d9386688c7)
+**Link(s) to work**: 
+[Mynote app](https://github.com/marinaandthecode/mern-notes/commit/cb2fe991af48d4cf726aab6991bb87d9386688c7)
 
 
-### Day 2: June 27, Monday
+### Day 2: May 27, 2020 (Wednesday)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Played with localStorage a bit. Added create, update, delete functionality to my notes app. Struggled with a bug (setState with onChange event) and have fixed it! Other functions remain for tomorrow Exploding head 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It's a great feeling to get back on track. Even when I was doing smth unrelated to coding, my mind continued processing props and functions on the background. Programming is very enjoyable when "yay, it works!" 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Mynote app](https://github.com/marinaandthecode/mern-notes/commit/67a3d4e90b35e94f2fa4d5154380e8571034d5aa)
