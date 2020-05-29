@@ -17,3 +17,43 @@
 
 **Link(s) to work**
 [Mynote app](https://github.com/marinaandthecode/mern-notes/commit/67a3d4e90b35e94f2fa4d5154380e8571034d5aa)
+
+
+### Day 3: May 28, 2020 (Thursday)
+
+**Today's Progress**: Tried to build a (Momentum-like) dynamic page with updating clock and editable text elements from a tutorial using Vanilla JS. 
+Learned about the difference between innerText and textContent. 
+Need to practice DOM manipulation more, forgot some basic things 😀
+
+**Thoughts** Felt less motivated today. I have to compensate motivation with discipline and to write code every day no matter what. 
+
+
+### Day 4: May 29, 2020 (Friday)
+
+**Today's Progress**: ...
+
+**Thoughts** ...
+
+**Link(s) to work**
+[Mynote app](#)
+
+
+### Day 5: May 30, 2020 (Saturday)
+
+**Today's Progress**: ...
+
+**Thoughts** ...
+
+**Link(s) to work**
+[Mynote app](#)
+
+
+### Day 6: May 31, 2020 (Sunday)
+
+**Today's Progress**: ...
+
+**Thoughts** ...
+
+**Link(s) to work**
+[Mynote app](#)
+
