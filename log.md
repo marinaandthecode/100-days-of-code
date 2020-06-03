@@ -25,35 +25,33 @@
 Learned about the difference between innerText and textContent. 
 Need to practice DOM manipulation more, forgot some basic things 😀
 
-**Thoughts** Felt less motivated today. I have to compensate motivation with discipline and to write code every day no matter what. 
+**Thoughts**: Felt less motivated today. I have to compensate motivation with discipline and to write code every day no matter what. 
 
 
 ### Day 4: May 29, 2020 (Friday)
 
-**Today's Progress**: ...
-
-**Thoughts** ...
-
-**Link(s) to work**
-[Mynote app](#)
+**Today's Progress**: Not very productive days, but managed to learn smth. Read a large article about hooks (I haven't understand some of them yet Disappointed face).
 
 
 ### Day 5: May 30, 2020 (Saturday)
 
-**Today's Progress**: ...
+**Today's Progress**: Watched Yandex lecture on React.
+Thought over my app structure, have an idea how to apply useEffect to Note component.
 
-**Thoughts** ...
+**Thoughts**: Hard to concentrate. Also don't know how to behave on Twitter during BLM situation. 
 
 **Link(s) to work**
-[Mynote app](#)
+[Tweet](https://twitter.com/marinandthecode/status/1266939428905406466)
 
 
 ### Day 6: May 31, 2020 (Sunday)
 
-**Today's Progress**: ...
+**Today's Progress**: Spent much time on bugs. Fixed notes state, passing props for default notes, adding new empty stickers. 
+Some things get solved not as quickly as I want, but I don't stop. 
+Still need to fix removing the last item instead of the one I click on. 
 
-**Thoughts** ...
+**Thoughts**: The whole day I thought: maybe I just need to return to work in business/finance? maybe I would not bring any value as a programmer?.. But then some code started working and programming felt like fun. 
 
 **Link(s) to work**
-[Mynote app](#)
+[Tweet](https://twitter.com/marinandthecode/status/1267338387436056579)
 
