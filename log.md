@@ -83,7 +83,17 @@ Still need to fix removing the last item instead of the one I click on.
 
 **Thoughts**: Today I admitted that I want to go to the office and I need people. To be in touch with reality. 
 
-**Link(s) to work**
+**Link(s) to work**: 
 [Mynote](https://github.com/marinaandthecode/mern-notes/commit/73eaa305bc849ef8b9ceb382c0339d1cb7fcff5a)
 
+
+### Day 11: June 5, 2020 (Friday)
+
+**Today's Progress**: Added Color Picker functionality to my app. Created BackgroundPicker component with effect of changing bgr. Also tried to make note content state available in the parent App, but failed. Read React docs.
+
+**Thoughts**: Catched the flow today! Getting used to programming :) 
+
+**Link(s) to work**: 
+[Mynote: changeColor](https://github.com/marinaandthecode/mern-notes/commit/c1ffc5dd541b2d9802be1d1417e87531f36c8d18)
+[Mynote: changeBgr](https://github.com/marinaandthecode/mern-notes/commit/d62bf3e200d51cd7d41944337ce6feab4c5f52e4)
 
