@@ -97,3 +97,20 @@ Still need to fix removing the last item instead of the one I click on.
 [Mynote: changeColor](https://github.com/marinaandthecode/mern-notes/commit/c1ffc5dd541b2d9802be1d1417e87531f36c8d18)
 [Mynote: changeBgr](https://github.com/marinaandthecode/mern-notes/commit/d62bf3e200d51cd7d41944337ce6feab4c5f52e4)
 
+
+### Day 12: June 6, 2020 (Saturday)
+
+**Today's Progress**: Watched React crash course by Brad Traversy. Learned some more tricks for my apps: storing styles in Component file, use of PropTypes and uuid. Also understood where to save state: things shared between components should be stored in the higher one. 
+
+
+### Day 13: June 9, 2020 (Tuesday)
+
+**Today's Progress**: Learned about React Router, Links (instead of a) and how to send requests to APIs using axios. 
+
+
+
+
+
+
+
+
