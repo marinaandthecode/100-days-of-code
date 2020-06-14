@@ -100,12 +100,45 @@ Still need to fix removing the last item instead of the one I click on.
 
 ### Day 12: June 6, 2020 (Saturday)
 
-**Today's Progress**: Watched React crash course by Brad Traversy. Learned some more tricks for my apps: storing styles in Component file, use of PropTypes and uuid. Also understood where to save state: things shared between components should be stored in the higher one. 
+**Today's Progress**: Watched React crash course by Brad Traversy. Learned some more tricks for my apps: storing styles in Component file, use of PropTypes and uuid. Also understood (hope so) where to save state: things shared between components should be stored in the higher one. 
 
 
 ### Day 13: June 9, 2020 (Tuesday)
 
 **Today's Progress**: Learned about React Router, Links (instead of a) and how to send requests to APIs using axios. 
+
+
+### Day 14: June 11, 2020 (Thursday)
+
+**Today's Progress**: Decided to complete RESTful API with HTTP and JavaScript project, as Coursera offers free certificates. Now I can confidently work with APIs, handle bad data and sanitize inputs. A nice addition to my LinkedIn profile! 
+
+**Thoughts**: I still procrastinate writing my own code from scratch. 
+
+**Link(s) to work**: 
+[API Certificate](https://coursera.org/share/fd68cab44268afe01de20d4bc1547613)
+
+
+### Day 15: June 12, 2020 (Friday)
+
+**Today's Progress**: Learned about Drag'n'Drop, what attribute and functions I need to apply to draggable element and drop zone. Practiced on CodePen. 
+
+**Thoughts**: I still procrastinate writing my own code from scratch. 
+
+**Link(s) to work**: 
+[Drag'n'Drop playground](https://codepen.io/chtotoyest/pen/mdVEdJP)
+
+
+### Day 16: June 13, 2020 (Saturday)
+
+**Today's Progress**: Spent >3hrs trying to figure out how to save edits of individual note content to parent state. Broke my app again. Meh.
+
+**Thoughts**: It's very frustrating not to be able to share beautiful results. 
+I thought I would deploy my app last week (lol), is that what all beginners think? 
+
+
+
+
+
 
 
 
