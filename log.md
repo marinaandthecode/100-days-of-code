@@ -136,6 +136,32 @@ Still need to fix removing the last item instead of the one I click on.
 I thought I would deploy my app last week (lol), is that what all beginners think? 
 
 
+### Day 17: June 15, 2020 (Monday)
+
+**Today's Progress**: Today I refactored previous code, separated ColorPicker component and tried to make it appear only on right click - created a custom context menu. Doesn't work as expected yet Grinning face something went wrong with positioning. 
+
+**Thoughts**: Projects are the best way to understand your abilities and knowledge gaps. I wish I started earlier. "The time will pass anyway" 
+
+**Link(s) to work**: 
+[Mynote app](https://github.com/marinaandthecode/mern-notes/commit/586391ef3204dc5de0b55b1f4694da56e7ec10ba)
+
+
+### Day 18: June 17, 2020 (Wednesday)
+
+**Today's Progress**: I read React docs on state and tried to understand once again how lift it up. Doesn't go easy for me. 
+Also I read an awesome article on z-index and played with interactive tool, it was one of the trickiest thing for me from the beginning. 
+
+**Thoughts**: Guilty for not producing any value yet. 
+
+
+### Day 19: June 18, 2020 (Thursday)
+
+**Today's Progress**: I quickly fixed position of ColorPicker in Mynote! From page to offset. Now I understand the practical difference. Also made the component hide after choosing a color. Proud of myself for quick dive into code. 
+
+**Thoughts**: Recent weeks my mind is trying to convince me to give up programming in favor of business functions. And I remembered my dream of working in a corporation. 
+
+**Link(s) to work**: 
+[Mynote app](https://github.com/marinaandthecode/mern-notes/commit/78ef70f9f39ca685bcc3480794ec8a754f1142c1)
 
 
 
