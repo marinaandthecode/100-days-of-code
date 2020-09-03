@@ -164,12 +164,100 @@ Also I read an awesome article on z-index and played with interactive tool, it w
 [Mynote app](https://github.com/marinaandthecode/mern-notes/commit/78ef70f9f39ca685bcc3480794ec8a754f1142c1)
 
 
+### Day 20: June 22, 2020 (Monday)
+
+**Today's Progress**: Struggled to customize select for BackgroundPicker. Just applying "Background-image" to options doesn't work. Found out that styling inputs is a real problem. Read an article.
+
+**Thoughts**: Decided to take easier web apps to practice - as it's clear I have many gaps and cannot produce results quickly enough. This "hour of code" is spent in reading and trying to understand something. It's frustrating. 
 
 
+### Day 21: June 24, 2020 (Wednesday)
+
+**Today's Progress**: Found a solution to dropdown background - wrap up in a div of certain width, set image as the div bgr (select needs to be less width)
 
 
+### Day 22: June 25, 2020 (Thursday)
+
+**Today's Progress**: Started React.js course on Codecademy! Want to consolidate my knowledge.
 
 
+### Day 23: June 26, 2020 (Friday)
+
+**Today's Progress**: Spent 2 hours on React.js course
 
 
+### Day 24: June 28, 2020 (Sunday)
 
+**Today's Progress**: Have learned about component classes and component instances. 
+I have learned about React.Component, and about the instructions that I must provide to a component class. How to use this. 
+Understood how props.children and defaultProps work! And trained them in challenges
+
+
+### Day 25: June 29, 2020 (Monday)
+
+**Today's Progress**: I built authorization form and Random Color Picker and finished React.js I course! 
+Understood what this refers to in class Components. Found out that this.setState automatically calls render method. 
+Started the second part, learned the idea behind the difference between component classes.
+
+
+### Day 26: June 30, 2020 (Tuesday)
+
+**Today's Progress**: Learned another React programming pattern - CHILD COMPONENTS UPDATE THEIR SIBLINGS' PROPS
+One Sibling to Display, Another to Change. Understood why I had bugs in my app - i need to divide responsibilities. 
+Learned another programming pattern: dividing components into presentational components and container components.
+Finished Part II and practiced PropTypes and component lifecycle methods!
+
+
+### Day 27: July 1, 2020 (Wednesday)
+
+**Today's Progress**: Went through Learn Asyncronous JavaScript course with codecademy. Such a complex topic 
+Learned about separation of concepts principle.
+
+
+### Day 28: July 2, 2020 (Thursday)
+
+**Today's Progress**: Finished Asynchronous JavaScript course. Learned how to use Promise.all([]). It took longer for me to understand async-await. Now I know that it always returns a promise. Practiced error handling. 
+
+
+### Day 29: July 6, 2020 (Monday)
+
+**Today's Progress**: Learned more tricks from Vitaly. For example, setting 20px padding to section-outer and max-width to section-inner = just 2 lines to make your layout responsive for almost all screen sizes. For mobile just add a few more settings. 
+
+**Thoughts**: Felt overwhelmed the previous days and didn’t want to code. I guess it’s just natural for me to have these highs and lows and take rest from programming for some days.
+
+
+### Day 30: July 8, 2020 (Wednesday)
+
+**Today's Progress**: Returned to freeCodeCamp certification! Solved some React challenges
+
+**Thoughts**: React syntax is becoming ‘automatic’ to me.
+
+
+### Day 31: July 9, 2020 (Thursday)
+
+**Today's Progress**: freeCodeCamp React challenges again. 
+
+**Thoughts**: Seems like I procractinate...
+
+
+### Day 32: July 11, 2020 (Saturday)
+
+**Today's Progress**: Continued with fCC. 
+Also took a look at LeetCode Interview Questions Set. Scary, but definitely doable.
+
+
+### Day 33: July 12, 2020 (Sunday)
+
+**Today's Progress**: Tried to test my knowledge of design patterns at https://designpatternsgame.com/. The result was 48% - I never learned this topic before, knowing it’s not for beginners, and I am interested in learning more now! 
+
+
+### Day 34: July 15, 2020 (Wednesday)
+
+**Today's Progress**: Explored Frontend Mentor projects…
+
+
+### Day 35: July 31, 2020 (Friday)
+
+**Today's Progress**: Completed React&Redux course on SoloLearn. Now I know what Redux is made for, wtf are actions and reducers. 
+
+**Thoughts**: I love frontend programming. Mindblowing but a nice career with beautiful results. 
